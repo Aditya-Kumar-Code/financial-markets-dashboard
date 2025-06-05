@@ -1,0 +1,14 @@
+.box { 
+  margin: 250px auto;
+  
+  max-width: 250px;
+  
+}
+
+.box .container-1 input{
+   width: 100%;
+}
+
+body{
+  background-color: rgb(0, 132, 255);
+}
